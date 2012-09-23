@@ -1,6 +1,6 @@
 {
     "name": "postageapp",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "node": ">= 0.8.8",
     "homepage": "https://github.com/psobot/postageapp-nodejs",
     "repository": {
