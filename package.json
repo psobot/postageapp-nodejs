@@ -1,15 +1,16 @@
 {
     "name": "postageapp",
-    "version": "0.1.0",
-    "node": ">= 0.4.0",
-    "homepage": "https://github.com/postageapp/postageapp-nodejs",
+    "version": "0.1.1",
+    "node": ">= 0.8.8",
+    "homepage": "https://github.com/psobot/postageapp-nodejs",
     "repository": {
     	"type":"git", 
-    	"url":"https://github.com/postageapp/postageapp-nodejs"
+    	"url":"https://github.com/psobot/postageapp-nodejs"
     },
     "author": {"name":"PostageApp", "url":"http://postageapp.com"},
-    "contributors": [{"name":"Jon Lim", "email": "jon@postageapp.com", "url":"http://postageapp.com"}],
+    "contributors": [{"name":"Jon Lim", "email": "jon@postageapp.com", "url":"http://postageapp.com"},
+                     {"name":"Peter Sobot", "email": "hi@petersobot.com", "url":"http://petersobot.com"}],
     "description": "Node.JS package for sending emails through PostageApp",
-    "licenses": [{"type": "MIT", "url": "https://github.com/postageapp/postageapp-nodejs/blob/master/LICENSE"}],
+    "licenses": [{"type": "MIT", "url": "https://github.com/psobot/postageapp-nodejs/blob/master/LICENSE"}],
     "main": "index"
 }
